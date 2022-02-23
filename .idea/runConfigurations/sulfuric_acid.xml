@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sulfuric_acid" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="sulfur_boiler" type="Python" />
+    <runConfiguration name="first_contact_device" type="Python" />
+    <runConfiguration name="second_absorption" type="Python" />
+    <runConfiguration name="second_contact_device" type="Python" />
+    <runConfiguration name="dehumidification_of_air" type="Python" />
+    <runConfiguration name="fist_absorption" type="Python" />
+    <runConfiguration name="intermediate_capacity" type="Python" />
+    <runConfiguration name="mixing" type="Python" />
+    <method v="2" />
+  </configuration>
+</component>

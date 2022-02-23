@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="CompoundRunConfigurationType">
+    <toRun name="calc_time" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
