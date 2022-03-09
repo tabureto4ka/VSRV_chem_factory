@@ -32,5 +32,5 @@ def calc(name, times, product):
 
 
 while True:
-    calc('HNO3', average_times_for_HNO3, 'HNO3')
-    calc('H2SO4', average_times_for_H2SO4, 'H2SO4')
+    calc('packed_HNO3', average_times_for_HNO3, 'HNO3')
+    calc('packed_H2SO4', average_times_for_H2SO4, 'H2SO4')

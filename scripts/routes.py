@@ -24,5 +24,8 @@ contact_device = f'{work_directory}\\factory\\contact_device\\'
 steam_boiler_utilizer = f'{work_directory}\\factory\\steam_boiler_utilizer\\'
 refrigerator_condenser = f'{work_directory}\\factory\\refrigerator_condenser\\'
 absorption_tank = f'{work_directory}\\factory\\absorption_tank\\'
+package = f'{work_directory}\\factory\\package'
+package_H2SO4 = f'{work_directory}\\factory\\package\\package_H2SO4'
+package_HNO3 = f'{work_directory}\\factory\\package\\package_HNO3'
 
 

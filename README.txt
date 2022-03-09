@@ -1,20 +1,7 @@
-Файлы нужно запускать в следующем порядке:
-1.init_factory.py
-2.delivery_in_storage.py
-3.move_from_storage.py
-4.dehumidification_of_air.py
-5.sulfur_boiler.py
-6.first_contact_device.py
-7.first_absorption.py
-8.second_contact_device.py
-9.second_absorption.py
-10.mixing.py
-11.intermadiate_capacity.py
-12.evaporation.py
-13.ammonia_air_mixer.py
-14.contact.py
-15.steam_turbine.py
-16.steam_boiler_utilizer.py
-17.refrigerator_condenser.py
-18.absorption.py
-19.calc_time.py
+Курсовая работа по дисциплине "Вычислительные системы реального времени"
+
+Для инициализации директорий нудно запустить init_factory.py
+
+Для запуска программы нужно запустить скрипт script.ps1*
+
+*Для работы скрипта необходим Windows Terminal

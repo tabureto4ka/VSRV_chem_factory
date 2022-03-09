@@ -3,7 +3,7 @@ import time
 import re
 
 
-def move(start_location, end_location, time_for_move, volume):
+def move_all(start_location, end_location, time_for_move, volume):
     items = os.listdir(start_location)
     time.sleep(time_for_move)
     if len(items) == 0:
@@ -15,7 +15,7 @@ def move(start_location, end_location, time_for_move, volume):
             os.rename(old_item, f'{end_location}\\{item}')
 
 
-def find_and_move(start_location, end_location, name, time_for_move):
+def move(start_location, end_location, name, time_for_move):
     items = os.listdir(start_location)
     time.sleep(time_for_move)
     if len(items) == 0:
